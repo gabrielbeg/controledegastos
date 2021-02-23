@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBp7YIw3zIZ4PUr1CMjGbPkSfwi1mnyBE+6+R/sUVCo6iqrIMiWonU/jU4l2tC32TFxl/wp23aMM5kiVMxPZHQ==",
+  "success": true,
+  "projectFilePath": "/Users/gabrielbegueldo/Projects/ControleDeGastos/ControleDeGastos.UITests/ControleDeGastos.UITests.csproj",
+  "expectedPackageFiles": [
+    "/Users/gabrielbegueldo/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
+    "/Users/gabrielbegueldo/.nuget/packages/xamarin.uitest/3.0.5/xamarin.uitest.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

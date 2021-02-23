@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jmLYD5HFB9rm9g2rOP8mtBdDOLbN5xcAa5Wg3d9QI8RVtO1CSx4dBn1jO5GiGFE9w+LyiyQFOv6juNOtXgMvmg==",
+  "success": true,
+  "projectFilePath": "/Users/gabrielbegueldo/Projects/ControleDeGastos/ControleDeGastos.iOS/ControleDeGastos.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/gabrielbegueldo/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/gabrielbegueldo/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512",
+    "/Users/gabrielbegueldo/.nuget/packages/xamarin.testcloud.agent/0.21.9/xamarin.testcloud.agent.0.21.9.nupkg.sha512"
+  ],
+  "logs": []
+}

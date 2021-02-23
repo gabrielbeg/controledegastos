@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2LaKziBJgu3D+1jx7CyNF+o68Jy7cyQv0aidj97u3h3Tv9jBzddbqlIdRSGPrZLTMby0th+yZrHdtlabzCjQw==",
+  "success": true,
+  "projectFilePath": "/Users/gabrielbegueldo/Projects/ControleDeGastos/ControleDeGastos/ControleDeGastos.csproj",
+  "expectedPackageFiles": [
+    "/Users/gabrielbegueldo/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/gabrielbegueldo/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/gabrielbegueldo/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/gabrielbegueldo/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/gabrielbegueldo/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

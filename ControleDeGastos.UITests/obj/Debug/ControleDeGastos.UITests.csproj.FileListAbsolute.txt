@@ -1,0 +1,10 @@
+/Users/gabrielbegueldo/Projects/ControleDeGastos/ControleDeGastos.UITests/bin/Debug/ControleDeGastos.UITests.dll
+/Users/gabrielbegueldo/Projects/ControleDeGastos/ControleDeGastos.UITests/bin/Debug/ControleDeGastos.UITests.pdb
+/Users/gabrielbegueldo/Projects/ControleDeGastos/ControleDeGastos.UITests/bin/Debug/nunit.framework.dll
+/Users/gabrielbegueldo/Projects/ControleDeGastos/ControleDeGastos.UITests/bin/Debug/nunit.framework.pdb
+/Users/gabrielbegueldo/Projects/ControleDeGastos/ControleDeGastos.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/gabrielbegueldo/Projects/ControleDeGastos/ControleDeGastos.UITests/obj/Debug/ControleDeGastos.UITests.csprojAssemblyReference.cache
+/Users/gabrielbegueldo/Projects/ControleDeGastos/ControleDeGastos.UITests/obj/Debug/ControleDeGastos.UITests.csproj.CoreCompileInputs.cache
+/Users/gabrielbegueldo/Projects/ControleDeGastos/ControleDeGastos.UITests/obj/Debug/ControleDeGastos.UITests.csproj.CopyComplete
+/Users/gabrielbegueldo/Projects/ControleDeGastos/ControleDeGastos.UITests/obj/Debug/ControleDeGastos.UITests.dll
+/Users/gabrielbegueldo/Projects/ControleDeGastos/ControleDeGastos.UITests/obj/Debug/ControleDeGastos.UITests.pdb
