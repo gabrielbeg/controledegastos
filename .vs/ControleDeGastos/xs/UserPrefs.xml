@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A9DC1CD1-CFFA-4B3F-9A50-88A557B55D0B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ControleDeGastos/Views/MainPage.xaml">
+    <Files>
+      <File FileName="ControleDeGastos/Views/MainPage.xaml" Line="7" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ControleDeGastos" expanded="True">
+            <Node name="ControleDeGastos" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ControleDeGastos.Android PreferredExecutionTarget="Android.nexus_4_nougat_7_1_-_api_25" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -5,7 +5,7 @@
             x:Class="ControleDeGastos.Views.MainPage">
 
     <TabbedPage.Children>
-        <NavigationPage Title="Browse">
+        <NavigationPage Title="Gastos">
             <x:Arguments>
                 <views:ItemsPage />
             </x:Arguments>
@@ -16,7 +16,7 @@
             </NavigationPage.Icon>
         </NavigationPage>
         
-        <NavigationPage Title="About">
+        <NavigationPage Title="Controle">
             <x:Arguments>
                 <views:AboutPage />
             </x:Arguments>
